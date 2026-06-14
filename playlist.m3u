@@ -1,27 +1,607 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CineMonde" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Brasil: cinema",CineMonde | Soul TV Brasil
-https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
-#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Brasil: cinema",DarkFlix HD | Soul TV Brasil
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Brasil: cinema",MovieSphere | Brasil
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Brasil: cinema",MyTime Movie Network | Brasil
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime AÃ§Ã£o | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime AÃ§Ã£o | Brasil ~ link 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime CinEspanto | Suspense e Terror | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime ComÃ©dia | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Crime | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime FamÃ­lia | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Romance | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="Brasil: cinema",Soul Cine Clube | Brasil
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 1" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 1
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/52276.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 10" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 10
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/52285.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 100" tvg-name="[XX] ADULTO 100" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 100
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952431.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 101" tvg-name="[XX] ADULTO 101" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 101
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959966.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 102" tvg-name="[XX] ADULTO 102" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 102
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959967.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 103" tvg-name="[XX] ADULTO 103" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 103
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959968.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 104" tvg-name="[XX] ADULTO 104" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 104
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959969.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 105" tvg-name="[XX] ADULTO 105" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 105
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959970.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 106" tvg-name="[XX] ADULTO 106" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 106
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959971.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 106" tvg-name="[XX] ADULTO 106" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 106
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959972.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 107" tvg-name="[XX] ADULTO 107" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 107
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959973.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 108" tvg-name="[XX] ADULTO 108" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 108
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959974.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 109" tvg-name="[XX] ADULTO 109" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 109
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959975.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 11" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 11
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/57091.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 110 " tvg-name="[XX] ADULTO 110" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 110
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959976.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 111" tvg-name="[XX] ADULTO 111" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 111
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959977.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 112" tvg-name="[XX] ADULTO 112" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 112
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959978.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 113" tvg-name="[XX] ADULTO 113" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 113
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959979.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 113" tvg-name="[XX] ADULTO 113" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 113
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959980.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 114" tvg-name="[XX] ADULTO 114" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 114
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959981.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 115" tvg-name="[XX] ADULTO 115" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 115
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959982.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 116" tvg-name="[XX] ADULTO 116" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 116
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959983.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 117" tvg-name="[XX] ADULTO 117" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 117
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959984.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 118" tvg-name="[XX] ADULTO 118" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 118
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959985.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 119" tvg-name="[XX] ADULTO 119" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 119
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959986.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 12" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 12
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/57092.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 120" tvg-name="[XX] ADULTO 120" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 120
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959987.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 120" tvg-name="[XX] ADULTO 121" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 121
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959988.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 120" tvg-name="[XX] ADULTO 122" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 122
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959989.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 123" tvg-name="[XX] ADULTO 123" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 123
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959990.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 124" tvg-name="[XX] ADULTO 124" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 124
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959991.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 125" tvg-name="[XX] ADULTO 125" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 125
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959992.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 126" tvg-name="[XX] ADULTO 126" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 126
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959993.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 127" tvg-name="[XX] ADULTO 127" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 127
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959994.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 128" tvg-name="[XX] ADULTO 128" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 128
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959995.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 129" tvg-name="[XX] ADULTO 129" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 129
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959996.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 13" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 13
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/57095.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 130" tvg-name="[XX] ADULTO 130" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 130
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959997.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 131" tvg-name="[XX] ADULTO 131" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 131
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959998.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 132" tvg-name="[XX] ADULTO 132" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 132
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/959999.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 133" tvg-name="[XX] ADULTO 133" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 133
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960000.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 134" tvg-name="[XX] ADULTO 134" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 134
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960001.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 135" tvg-name="[XX] ADULTO 135" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 135
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960002.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 136" tvg-name="[XX] ADULTO 136" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 136
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960003.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 136" tvg-name="[XX] ADULTO 137" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 137
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960004.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 138" tvg-name="[XX] ADULTO 138" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 138
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960005.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 139" tvg-name="[XX] ADULTO 139" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 139
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960006.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 14" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 14
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/57097.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 140" tvg-name="[XX] ADULTO 140" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 140
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960007.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 141" tvg-name="[XX] ADULTO 141" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 141
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960008.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 142" tvg-name="[XX] ADULTO 142" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 142
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960009.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 143" tvg-name="[XX] ADULTO 143" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 143
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960010.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 144" tvg-name="[XX] ADULTO 144" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 144
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960011.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 145" tvg-name="[XX] ADULTO 145" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 145
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960012.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 146" tvg-name="[XX] ADULTO 146" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 146
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960013.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 147" tvg-name="[XX] ADULTO 147" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 147
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960014.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 148" tvg-name="[XX] ADULTO 148" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 148
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960015.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 149" tvg-name="[XX] ADULTO 149" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 149
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960016.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 15" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 15
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/57098.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 150" tvg-name="[XX] ADULTO 150" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 150
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960017.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 151" tvg-name="[XX] ADULTO 151" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 151
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960018.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 152" tvg-name="[XX] ADULTO 152" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 152
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960019.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 153" tvg-name="[XX] ADULTO 153" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 153
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960020.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 153" tvg-name="[XX] ADULTO 154" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 154
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960021.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 155" tvg-name="[XX] ADULTO 155" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 155
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960022.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 156" tvg-name="[XX] ADULTO 156" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 156
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960023.ts
+#EXTINF:-1 tvg-id="XX] ADULTO 157" tvg-name="[XX] ADULTO 157" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 157
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960024.ts
+#EXTINF:-1 tvg-id="XX] ADULTO 158" tvg-name="[XX] ADULTO 158" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 158
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960025.ts
+#EXTINF:-1 tvg-id="XX] ADULTO 159" tvg-name="[XX] ADULTO 159" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 159
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960026.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 16" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 16
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/57099.ts
+#EXTINF:-1 tvg-id="XX] ADULTO 160" tvg-name="[XX] ADULTO 160" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 160
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960027.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 161" tvg-name="[XX] ADULTO 161" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 161
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960028.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 162" tvg-name="[XX] ADULTO 162" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 162
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960029.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 163" tvg-name="[XX] ADULTO 163" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 163
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960030.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 164" tvg-name="[XX] ADULTO 164" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 164
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960031.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 165" tvg-name="[XX] ADULTO 165" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 165
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960032.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 166" tvg-name="[XX] ADULTO 166" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 166
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960033.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 167" tvg-name="[XX] ADULTO 167" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 167
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960034.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 168" tvg-name="[XX] ADULTO 168" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 168
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960035.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 169" tvg-name="[XX] ADULTO 169" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 169
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960036.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 17" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 17
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/57100.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 170" tvg-name="[XX] ADULTO 170" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 170
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960037.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 180" tvg-name="[XX] ADULTO 171" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 171
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960038.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 181" tvg-name="[XX] ADULTO 172" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 172
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960039.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 182" tvg-name="[XX] ADULTO 173" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 173
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960040.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 183" tvg-name="[XX] ADULTO 174" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 174
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960041.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 184" tvg-name="[XX] ADULTO 175" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 175
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960042.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 185" tvg-name="[XX] ADULTO 176" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 176
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960043.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 186" tvg-name="[XX] ADULTO 177" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 177
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960044.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 187" tvg-name="[XX] ADULTO 178" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 178
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960045.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 179" tvg-name="[XX] ADULTO 179" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 179
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960046.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 18" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 18
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/57101.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 180" tvg-name="[XX] ADULTO 180" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 180
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960047.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 181" tvg-name="[XX] ADULTO 181" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 181
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960048.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 182" tvg-name="[XX] ADULTO 182" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 182
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960049.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 183" tvg-name="[XX] ADULTO 183" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 183
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960050.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 184" tvg-name="[XX] ADULTO 184" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 184
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960051.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 185" tvg-name="[XX] ADULTO 185" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 185
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960052.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 186" tvg-name="[XX] ADULTO 186" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 186
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960053.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 187" tvg-name="[XX] ADULTO 187" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 187
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960054.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 188" tvg-name="[XX] ADULTO 188" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 188
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960055.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 189" tvg-name="[XX] ADULTO 189" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 189
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960056.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 19" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 19
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/57102.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 190" tvg-name="[XX] ADULTO 190" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 190
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960057.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 191" tvg-name="[XX] ADULTO 191" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 191
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960058.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 192" tvg-name="[XX] ADULTO 192" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 192
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960059.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 193" tvg-name="[XX] ADULTO 193" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 193
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960060.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 194" tvg-name="[XX] ADULTO 194" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 194
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960061.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 195" tvg-name="[XX] ADULTO 195" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 195
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960062.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 196" tvg-name="[XX] ADULTO 196" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 196
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/960063.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 197" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 197
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964767.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 198" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 198
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964768.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 199" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 199
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964769.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 2" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/52278.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 20" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 20
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/57113.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 201" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 201
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964771.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 202" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 202
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964772.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 203" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 203
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964773.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 204" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 204
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964774.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 205" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 205
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964775.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 206" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 206
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964776.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 207" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 207
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964777.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 208" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 208
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964779.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 209" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 209
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964780.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 21" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 21
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/69517.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 210" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 210
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964781.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 211" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 211
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964782.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 212" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 212
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964783.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 213" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 213
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964784.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 214" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 214
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964785.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 215" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 215
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964786.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 216" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 216
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964788.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 217" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 217
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964789.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 218" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 218
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964790.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 219" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 219
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964791.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 22" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 22
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/69518.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 220" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 220
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964792.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 221" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 221
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964793.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 222" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 222
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964794.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 223" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 223
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964795.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 224" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 224
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964796.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 225" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 225
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964797.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 226" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 226
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/964798.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 384" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 384
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965039.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 385" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 385
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965040.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 386" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 386
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965041.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 387" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 387
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965042.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 388" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 388
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965043.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 389" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 389
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965044.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 39" tvg-name="[XX] ADULTO 39" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 39
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/932520.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 390" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 390
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965045.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 391" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 391
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965046.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 392" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 392
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965047.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 393" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 393
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965048.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 394" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 394
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965049.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 395" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 395
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965050.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 396" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 396
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965051.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 397" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 397
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965052.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 398" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 398
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965053.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 399" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 399
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965054.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 4" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 4
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/52280.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 40" tvg-name="[XX] ADULTO 40" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 40
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/932521.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 400" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 400
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/965055.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 41" tvg-name="[XX] ADULTO 41" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 41
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/932522.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 42" tvg-name="[XX] ADULTO 42" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 42
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/932523.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 43" tvg-name="[XX] ADULTO 43" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 43
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/932524.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 44" tvg-name="[XX] ADULTO 44" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 44
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/932525.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 45" tvg-name="[XX] ADULTO 45" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 45
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/932526.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 46" tvg-name="[XX] ADULTO 46" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 46
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/932527.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 47" tvg-name="[XX] ADULTO 47" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 47
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/932528.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 48" tvg-name="[XX] ADULTO 48" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 48
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/932529.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 49" tvg-name="[XX] ADULTO 49" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 49
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/932530.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 5" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 5
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/52281.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 50" tvg-name="[XX] ADULTO 50" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 50
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/932531.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 51" tvg-name="[XX] ADULTO 51" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 51
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952381.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 52" tvg-name="[XX] ADULTO 52" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 52
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952382.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 53" tvg-name="[XX] ADULTO 53" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 53
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952383.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 54" tvg-name="[XX] ADULTO 54" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 54
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952384.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 55" tvg-name="[XX] ADULTO 55" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 55
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952385.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 56" tvg-name="[XX] ADULTO 56" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 56
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952386.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 57" tvg-name="[XX] ADULTO 57" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 57
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952387.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 58" tvg-name="[XX] ADULTO 58" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 58
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952388.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 59" tvg-name="[XX] ADULTO 59" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 59
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952389.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 6" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 6
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/52282.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 60" tvg-name="[XX] ADULTO 60" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 60
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952390.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 61" tvg-name="[XX] ADULTO 61" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 61
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952391.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 62" tvg-name="[XX] ADULTO 62" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 62
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952392.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 63" tvg-name="[XX] ADULTO 63" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 63
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952393.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 64" tvg-name="[XX] ADULTO 64" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 64
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952394.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 65" tvg-name="[XX] ADULTO 65" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 65
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952395.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 66" tvg-name="[XX] ADULTO 66" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 66
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952396.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 67" tvg-name="[XX] ADULTO 67" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 67
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952397.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 68" tvg-name="[XX] ADULTO 68" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 68
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952398.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 69" tvg-name="[XX] ADULTO 69" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 69
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952399.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 70" tvg-name="[XX] ADULTO 70" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 70
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952400.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 71" tvg-name="[XX] ADULTO 71" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 71
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952401.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 72" tvg-name="[XX] ADULTO 72" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 72
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952402.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 73" tvg-name="[XX] ADULTO 73" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 73
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952403.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 74" tvg-name="[XX] ADULTO 74" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 74
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952404.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 75" tvg-name="[XX] ADULTO 75" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 75
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952405.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 76" tvg-name="[XX] ADULTO 76" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 76
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952406.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 77" tvg-name="[XX] ADULTO 77" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 77
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952407.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 78" tvg-name="[XX] ADULTO 78" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 78
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952408.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 79" tvg-name="[XX] ADULTO 79" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 79
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952409.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 8" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 8
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/52283.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 80" tvg-name="[XX] ADULTO 80" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 80
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952410.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 81" tvg-name="[XX] ADULTO 81" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 81
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952411.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 81" tvg-name="[XX] ADULTO 81" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 81
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952412.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 82" tvg-name="[XX] ADULTO 82" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 82
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952413.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 83" tvg-name="[XX] ADULTO 83" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 83
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952414.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 84" tvg-name="[XX] ADULTO 84" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 84
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952415.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 85" tvg-name="[XX] ADULTO 85" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 85
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952416.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 86" tvg-name="[XX] ADULTO 86" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 86
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952417.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 87" tvg-name="[XX] ADULTO 87" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 87
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952418.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 88" tvg-name="[XX] ADULTO 88" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 88
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952419.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 89" tvg-name="[XX] ADULTO 89" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 89
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952420.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] ADULTO 9" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 9
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/52284.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 90" tvg-name="[XX] ADULTO 90" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 90
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952421.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 91" tvg-name="[XX] ADULTO 91" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 91
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952422.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 92" tvg-name="[XX] ADULTO 92" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 92
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952423.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 93" tvg-name="[XX] ADULTO 93" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 93
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952424.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 94" tvg-name="[XX] ADULTO 94" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 94
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952425.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 95" tvg-name="[XX] ADULTO 95" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 95
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952426.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 96" tvg-name="[XX] ADULTO 96" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 96
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952427.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 97" tvg-name="[XX] ADULTO 97" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 97
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952428.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 98" tvg-name="[XX] ADULTO 98" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 98
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952429.ts
+#EXTINF:-1 tvg-id="[XX] ADULTO 99" tvg-name="[XX] ADULTO 99" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] ADULTO 99
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952430.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Anal Porno" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Anal Porno
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004862.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Asian Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Asian Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004867.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] BRASILEIRINHAS 01" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] BRASILEIRINHAS 01
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63355.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] BRASILEIRINHAS 02" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] BRASILEIRINHAS 02
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63356.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] BRASILEIRINHAS 03" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] BRASILEIRINHAS 03
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63357.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] BRASILEIRINHAS 04" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] BRASILEIRINHAS 04
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63358.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] BRASILEIRINHAS 05" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] BRASILEIRINHAS 05
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63359.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] BRASILEIRINHAS 06" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] BRASILEIRINHAS 06
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63360.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] BRASILEIRINHAS 07" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] BRASILEIRINHAS 07
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63361.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] BRASILEIRINHAS 08" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] BRASILEIRINHAS 08
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63362.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] BRASILEIRINHAS 09" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] BRASILEIRINHAS 09
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63363.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] BRASILEIRINHAS 10" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] BRASILEIRINHAS 10
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63364.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Babes TV" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Babes TV
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984329.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Barely Legal TV" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Barely Legal TV
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984335.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Big Ass Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Big Ass Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004850.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Big Dick Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Big Dick Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004846.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Big Tits Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Big Tits Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004847.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Blonde Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Blonde Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004865.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Blowjob Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Blowjob Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004854.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Blue Hustler" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Blue Hustler
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984320.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] Brazzers Europe" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Brazzers Europe
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63714.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Brunette Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Brunette Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004864.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] CENTOXCENTO" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] CENTOXCENTO
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63712.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] Candy" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Candy
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63713.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Compilation Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Compilation Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004863.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Cuckold XXX" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Cuckold XXX
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004857.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] Dorcel TV" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Dorcel TV
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63711.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Erox" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Erox
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984327.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Extasy" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Extasy
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984336.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] FAP TV 2" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] FAP TV 2
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984331.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] FAP TV 3" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] FAP TV 3
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984332.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] FAP TV 4" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] FAP TV 4
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984333.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] FAP TV Anal" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] FAP TV Anal
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984321.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] FAP TV BBW" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] FAP TV BBW
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984334.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] FAP TV Compilation" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] FAP TV Compilation
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984330.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] FAP TV Parody" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] FAP TV Parody
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984324.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] FAP TV Teens" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] FAP TV Teens
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984326.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Fetish XXX" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Fetish XXX
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004848.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Gangbang Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Gangbang Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004861.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Gay Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Gay Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004866.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Hardcore Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Hardcore Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004856.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Hustler" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Hustler
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984319.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Interracial Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Interracial Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004851.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] KinoXXX" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] KinoXXX
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984328.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Latina Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Latina Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004852.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Lesbian Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Lesbian Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004869.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Live Cams Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Live Cams Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004868.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] MILF Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] MILF Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004845.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] O-la-la" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] O-la-la
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984318.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] POV Porn XXX" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] POV Porn XXX
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004853.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] Passion" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Passion
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63709.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] PentHouse Black" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] PentHouse Black
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63708.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] PentHouse Gold" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] PentHouse Gold
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984323.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] PentHouse Quickies" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] PentHouse Quickies
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63707.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] Pink-O" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Pink-O
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63706.ts
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="[XX] Playboy TV" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Playboy TV
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37061.ts
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="[XX] Playboy TV HD" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Playboy TV HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/40749.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Pornstar XXX" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Pornstar XXX
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004849.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Private TV" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Private TV
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984322.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] REDLIGHT" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] REDLIGHT
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63704.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] RUSNOCH" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] RUSNOCH
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63703.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Red Lips" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Red Lips
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984337.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Rough Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Rough Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004860.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Russian Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Russian Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004859.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] SCT" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] SCT
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63702.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] SEXT6SENSO" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] SEXT6SENSO
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63701.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] Sex Prive HD" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Sex Prive HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63642.ts
+#EXTINF:-1 tvg-id="sextreme.brazil.br" tvg-name="[XX] Sextreme" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Sextreme
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37047.ts
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="[XX] Sexy Hot" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Sexy Hot
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37009.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] Sexy Hot HD" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Sexy Hot HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/61968.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Teen Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Teen Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004855.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Threesome Porn" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Threesome Porn
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1004858.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] VIVID Red" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] VIVID Red
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63699.ts
+#EXTINF:-1 tvg-id="venus.br" tvg-name="[XX] Venus" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Venus
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37026.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="[XX] Venus HD" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] Venus HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/61966.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] XXL" tvg-logo="https://i.imgur.com/H7dfckH.png" group-title="Canais | Adultos",[XX] XXL
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/984325.ts
